@@ -21,3 +21,9 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+* text=auto
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.php linguist-detectable=false
+*.blade.php linguist-detectable=false
